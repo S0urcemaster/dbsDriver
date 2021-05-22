@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>yellow_light.png</file>
+        <file>light_off.png</file>
+        <file>leather black.jpg</file>
+        <file>Map2.png</file>
+        <file>oma2.png</file>
+        <file>start1.png</file>
+        <file>start2.png</file>
+    </qresource>
+</RCC>
